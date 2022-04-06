@@ -1,0 +1,18 @@
+{
+    "name": "Smile",
+    "description": "Deploy Smile on Heroku.",
+    "keywords": ["Smile"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "E7A39OO3-79AO-531E-T935-A5AA5A3JJAT5"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "",
+    "repository": "https://github.com/0xPool/Smile",
+    "stack": "container"
+}
